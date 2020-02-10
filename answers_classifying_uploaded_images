@@ -1,0 +1,6 @@
+Answers to “Classifying Uploaded Images”
+
+1. The dog breed is a golden retriever. It is classified correctly by resnet and vgg but not by alexnet
+2. Yes!
+3. Yes!
+4. alexnet is the favorite because it recognised the correct breed (golden retriever) in both dog pictures, recognised correctly the other two non-dog images and offered the shortest runtime
